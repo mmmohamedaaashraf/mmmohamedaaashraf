@@ -50,4 +50,7 @@ More projects combining drilling, robotics and AI are being documented and added
 
 ## Contact
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohamed--ashraf0-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ashraf0)
 [![Email](https://img.shields.io/badge/Email-mmmohamedaaashraf%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mmmohamedaaashraf@gmail.com)
+
+📍 Abu Dhabi, UAE
