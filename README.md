@@ -45,6 +45,7 @@ I work where three fields meet: **petroleum engineering**, **robotics** and **AI
 | Project | Area | Description |
 |---|---|---|
 | StabBot *(code private until the paper is published)* | Drilling · Robotics · AI | Swing-aware robotic pipe stabbing on the drill floor: Kalman swing prediction, stereo keypoint vision and residual RL, tested in MuJoCo from 2⅜-in. tubing to 20-in. casing |
+| Rig Design *(private for now)* | Drilling · Simulation | Procedural land rig and jack-up built to API sizes, ready for Isaac Sim (USD with physics), MuJoCo (actuated top drive and iron roughneck) and Blender renders, with a 31-tool drill-floor library |
 | [Machine_Learning_Projects](https://github.com/mmmohamedaaashraf/Machine_Learning_Projects) | AI / ML | Machine learning projects with notebooks and measured results |
 
 More projects combining drilling, robotics and AI are being documented and added here.
